@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: bankapp_final
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: sathya_s
+Implementation-Vendor-Id: com.bankapp
+Build-Jdk: 1.8.0_181
+Implementation-URL: https://spring.io/projects/spring-boot/bankapp_fin
+ al
+Created-By: Maven Integration for Eclipse
+
